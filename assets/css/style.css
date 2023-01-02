@@ -15,3 +15,24 @@ form{
     padding: 1vw;
     row-gap: 1vw;
 }
+
+h2{
+    background-color: #5cd8a4;
+    margin: -1vw;
+    margin-bottom: 1vw;
+    padding: 1vw;
+}
+
+#name, #email, #submit{
+    height: 5vh;
+}
+
+#submit {
+    background-color: #5cd8a4;
+    color: white;
+    
+}
+
+#submit:hover{
+    background-color: #207552;
+}
